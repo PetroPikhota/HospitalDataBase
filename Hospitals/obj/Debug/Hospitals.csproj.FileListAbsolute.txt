@@ -1,0 +1,14 @@
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\bin\Debug\Hospitals.exe.config
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\bin\Debug\Hospitals.exe
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\bin\Debug\Hospitals.pdb
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.csprojAssemblyReference.cache
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.MainForm.resources
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.HospitalForm.resources
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.Properties.Resources.resources
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.csproj.GenerateResource.cache
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.csproj.CoreCompileInputs.cache
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.exe
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.pdb
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.DoctorForm.resources
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.AddDoc.resources
+C:\Users\Petryk\source\repos\Hospitals\Hospitals\obj\Debug\Hospitals.Communed.resources
